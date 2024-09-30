@@ -32,8 +32,10 @@ tambien para finalizar se creara otro xml al que le puse de nombre listavista.xm
 
 ![image](https://github.com/user-attachments/assets/0f3f1d64-2573-4aa7-972a-ca8e5e253068)
 
+![20240929185318](https://github.com/user-attachments/assets/d157ab6f-7985-4751-8518-a6ed7efd5db1)
 
 
 
+[Romo_Campos_LUIS_angel_5CV50_ListView_Dinamico.zip](https://github.com/user-attachments/files/17182462/Romo_Campos_LUIS_angel_5CV50_ListView_Dinamico.zip)
 
 
